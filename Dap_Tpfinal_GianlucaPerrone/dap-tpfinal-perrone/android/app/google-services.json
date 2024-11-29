@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048456945265",
+    "project_id": "dap-4tobim",
+    "storage_bucket": "dap-4tobim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048456945265:web:751434c2d000d241870769",
+        "android_client_info": {
+          "package_name": "FinalDap.Eze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX5TMFbgR_TfJMYHTe4WuTDMFb59QPxFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "",
+        "android_client_info": {
+          "package_name": "com.example.av"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX5TMFbgR_TfJMYHTe4WuTDMFb59QPxFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
