@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460658669000",
+    "project_id": "tp-final-dap-gianluca-perrone",
+    "storage_bucket": "tp-final-dap-gianluca-perrone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460658669000:android:d0b5a0ce6ffc30f60c3cfd",
+        "android_client_info": {
+          "package_name": "dap.tpfinal_gianlucaperrone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXVc0MCncL7rM0IOIpkp9vVBQE9k0DS3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
